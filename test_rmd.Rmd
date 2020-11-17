@@ -17,4 +17,8 @@ You're good! There's no such thing as slow :)
 plot(1:100)
 ```
 
+```{r}
+plot(-1:-100)
+```
+
 
