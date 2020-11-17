@@ -10,3 +10,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 Sorry I'm so slow at this haha
+
+You're good! There's no such thing as slow :)
